@@ -1,0 +1,10 @@
+----- 1.) Shipment information with salesnames and categories of products
+----- 2.) Shipments with sales person name and team
+----- 3.) Bar Shipments alone
+----- 4.) Salesperson Barr Shipments alone
+----- 5.) SHIPMENT INFORMATION FOR ALL OUR PRODUCTS
+----- 6.) COMPLEX JOIN QUERY - Did we ship all the products on first of Feb, 2022 ?
+----- 7.) Bar Barr shipments, grouped by month
+----- 8.) Barr Shipments alone with JOIN clause
+----- 9.) ANTI -JOINS - Which products haven't been sold at all
+----- 10.) Bar Barr Shipments
